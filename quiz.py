@@ -4,7 +4,7 @@ questions = ("Who was South Africa's first black president?: ",
              " What is the name of the highest mountain in Mzansi?: ",
              "In which year did Africa Borwa host the FIFA world cup?: ")
 
-options = (("A. Cyril Ramaphosa ", "B. Thabo Mbeki ", "C. Jacob Zuma ", "D. Nelson Mandela "),
+options = (("A. Cyril Ramaphosa ", "B. Thabo Mbeki ", "C. Jacob Zuma ", "D. Nelson Mandela "), 
            ("A. Durban ", "B. Polokwane", "C. Pretoria ", "D. Kimberly"),
            ("A. 1", "B. 11 ", "C. 30", "D. 50"),
            ("A. Magaliesberg", "B. Table Mountain", "C. Drakensburg", "D.Thabana Ntlenyana "),
